@@ -1,6 +1,6 @@
 {
   "name": "com.chainwayscanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin will allow the communication with the chainway scanner",
   "cordova": {
     "id": "com.chainwayscanner",
